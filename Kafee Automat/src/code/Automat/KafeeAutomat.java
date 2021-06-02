@@ -1,5 +1,8 @@
 package code.Automat;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
